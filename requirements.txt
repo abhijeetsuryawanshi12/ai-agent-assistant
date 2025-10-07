@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google_generativeai
+requests
+langchain
+langchain-community
+python-dotenv
+pydantic
